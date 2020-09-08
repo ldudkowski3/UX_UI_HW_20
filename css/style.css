@@ -270,6 +270,33 @@ button{
   margin-right: 10px;
 }
 
+.jumbotron{
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background: white;
+}
+
+.jumbotron h1{
+  font-size: 72px;
+  font-weight: 500;
+  color: #094f7f;
+}
+
+.jumbotron ul{
+  list-style-type: none;
+  padding-left: 0px;
+  margin-top: 100px;
+  margin-bottom: 150px;
+  font-size: 20px;
+  color: #505050;
+}
+
+.team{
+  color: #fd8924;
+  font-weight: 700;
+}
 
 .slideshow-container {
   margin: auto;
