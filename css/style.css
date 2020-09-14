@@ -270,6 +270,10 @@ button{
   margin-right: 10px;
 }
 
+.container-fluid{
+  padding: 0px;
+}
+
 .jumbotron{
   display: block;
   width: 100%;
@@ -292,6 +296,27 @@ button{
   font-size: 20px;
   color: #505050;
 }
+
+.overviewContainer{
+  width: 60%;
+  display: inline-block;
+}
+
+.overview{
+
+}
+
+.overviewPicContainer{
+  width: 30%;
+  display: inline-block;
+}
+
+.overviewPic{
+  width: 100%;
+  border: 1px solid #505050;
+}
+
+
 
 .team{
   color: #fd8924;
